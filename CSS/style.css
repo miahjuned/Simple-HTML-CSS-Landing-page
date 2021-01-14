@@ -1,0 +1,111 @@
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.nav-logo{
+    
+    width: 291.11px;
+    height: 39.27px;
+
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.header{
+    background-color: #fffbf0;
+    padding-left: 120px;
+    margin-right: 2px;
+    
+}
+
+.header-img{
+    height: 648px;
+    width: 90%;
+ 
+}
+.header-text{
+    font-family: Bebas Neue;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 80px;
+    letter-spacing: 0.2px;
+    text-align: left;
+
+}
+
+li a{
+    font-size: 25px;
+    color: #3C3C3C;
+}
+
+li a:hover{
+    background-color: #91ab2a;
+    border: 2px soli #91ab2a;
+    border-radius: 10px;
+}
+
+li a:active{
+    background-color: #91ab2a;
+    border: 2px soli #91ab2a;
+    border-radius: 10px;
+}
+
+.product, .woman-product2 , .woman-product3{
+    width: 92%;
+    height: 305px;
+    padding: 5% 15%;
+    background-color: #F1F1F1;
+    border: none;
+    border-radius: 25px;
+    box-shadow: 1px 1px 5px rgb(212, 212, 212);
+    margin-left: 12Px;
+    
+}
+
+
+.wrap-img{
+    width: 78px;
+    height: 82px;
+    padding: 10px;
+    margin-left: 30px;
+    
+    
+}
+.right-wrap-image{
+    height: 350px;
+    width: 520px;
+    
+
+
+}
+h1,  h3{
+    color: #363958;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #97b033 0%, #98b135 100%);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 15px 35px;
+    cursor: pointer;
+}
+.price{
+    font-size: 36px;
+    color: #fabe4c;
+}
+
+.box{
+    border: none;
+    border-radius: 25px;
+    box-shadow: 1px 1px 55px rgb(241, 239, 239);
+    
+}
+.img-shadow{
+    border: none;
+    border-radius: 25px;
+    box-shadow: 1px 1px 55px rgb(241, 239, 239);
+    
+}
